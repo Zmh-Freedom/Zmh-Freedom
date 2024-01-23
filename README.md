@@ -1,4 +1,9 @@
 ### Hi there 👋  
+-💁🏻‍♂️ I'm MinhaoZhou from China.
+-🎮 a game lover
+### Skills  
+https://img.shields.io/badge/C%2B%2B-plastic
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Zmh-Freedom&show_icons=true&theme=dark&count_private=true)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zmh-Freedom&theme=dark&layout=compact)
 
