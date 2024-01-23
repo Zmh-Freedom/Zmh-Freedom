@@ -1,5 +1,5 @@
 ### Hi there 👋  
--💁🏻‍♂️ I'm MinhaoZhou from China.
+-💁🏻‍♂️ I'm MinhaoZhou from China.  
 -🎮 a game lover
 ### Skills  
 [![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
