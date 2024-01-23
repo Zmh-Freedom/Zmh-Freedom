@@ -12,7 +12,12 @@
 ### 🌟Github Stats  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Zmh-Freedom&show_icons=true&theme=radical&count_private=true&)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zmh-Freedom&theme=radical&layout=compact)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zmh-Freedom&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zmh-Freedom&repo=convoychat" />
+</a>
 <!--
 **Zmh-Freedom/Zmh-Freedom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
