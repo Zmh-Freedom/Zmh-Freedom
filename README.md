@@ -8,9 +8,9 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 ### 🌟Github Stats  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Zmh-Freedom&show_icons=true&theme=dark&count_private=true&bg_color=blak)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Zmh-Freedom&show_icons=true&theme=dark&count_private=true&bg_color=white)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zmh-Freedom&theme=dark&layout=compact)
 
 <!--
